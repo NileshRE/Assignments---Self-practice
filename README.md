@@ -10,12 +10,10 @@
 
 
 <h4>Links</h4>
-<a href="weatherapppw.netlify.app/">PWA App</a>
-</br>
-<a href="quotes-app-rust.vercel.app">Quotes App</a>
-</br>
-<a href="crypknights.netlify.app/">Crypto Knights</a>
-</br>
+- [PWA App](https://weatherapppw.netlify.app/)
+- [Quotes App](https://quotes-app-rust.vercel.app)
+- [Crypto Knights](https://crypknights.netlify.app/)
+
 
 
 
