@@ -20,6 +20,7 @@
 <h4>JS Coding Practices</h4>
 <ol>
 <li>2nd largest number</li>
+<li>Rotated Array</li>
 </ol>
 
 
