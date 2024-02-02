@@ -17,7 +17,10 @@
 - [Crypto Knights](https://crypknights.netlify.app/)
 </br>
 
-
+<h4>JS Coding Practices</h4>
+<ol>
+<li>2nd largest number</li>
+</ol>
 
 
 <p>Will keep adding to the list...</p>
