@@ -22,6 +22,12 @@
 <ol>
 <li>2nd largest number</li>
 <li>Rotated Array</li>
+<li>Shuffle Array</li>
+<li>Stacks</li>
+<li>Move Zeroes to last</li>
+<li>Binary Search</li>
+<li>Mortgage Calculator</li>
+<li>Type utilities II</li>
 </ol>
 
 
