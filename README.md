@@ -6,7 +6,7 @@
   <li>Front-end assessment built pagination, sorting and searching</li>
   <li>Built a Todo app using JavaScript DOM Manipulation</li>
   <li>Crypto currency listing web app</li>
-  <li>Tried Implementing the New React Query for data fetching, caching, pagination etc.</li>
+  <li>Tried Implementing the New <b>React Query</b> for data fetching, caching, pagination etc.</li>
 </ol>
 
 
