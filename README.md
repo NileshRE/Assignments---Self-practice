@@ -28,6 +28,8 @@
 <li>Binary Search</li>
 <li>Mortgage Calculator</li>
 <li>Type utilities II</li>
+<li>Debouncing</li>
+<li>Count By</li>
 </ol>
 
 
