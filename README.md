@@ -6,6 +6,9 @@
   <li>Front-end assessment built pagination, sorting and searching</li>
   <li>Built a Todo app using JavaScript DOM Manipulation</li>
   <li>Crypto currency listing web app</li>
+  <li>Grid Lights</li>
+  <li>EMI Calculator</li>
+  <li>CountDown Timer</li>
   <li>Tried Implementing the New <b>React Query</b> for data fetching, caching, pagination etc.</li>
   <li>Currency Converter React App</li>
 </ol>
