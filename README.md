@@ -7,6 +7,7 @@
   <li>Built a Todo app using JavaScript DOM Manipulation</li>
   <li>Crypto currency listing web app</li>
   <li>Tried Implementing the New <b>React Query</b> for data fetching, caching, pagination etc.</li>
+  <li>Currency Converter React App</li>
 </ol>
 
 
@@ -17,6 +18,7 @@
 </br>
 - [Crypto Knights](https://crypknights.netlify.app/)
 </br>
+- [Currency Converter](https://currencyconvertern24.netlify.app/)
 
 <h4>JS Coding Practices</h4>
 <ol>
